@@ -1,0 +1,3 @@
+[submodule "mp-hand-gesture-detector"]
+	path = mp-hand-gesture-detector
+	url = git@github.com:polymitis/mp-hand-gesture-detector.git
